@@ -8,8 +8,8 @@ A: None at all! We are a great learning community when it comes to everything ph
 Q: I’m not really interested in photography can I still join the club?  
 A: We are a photography club so having an interest in taking photos is key. If you like/want to model and take photos, then this club is for you! Instead, if you are interested in the outdoors and not so much into photography that's perfectly fine, but you might like the Outdoors Club more than ours. 
 
-Q: Where can I fill out the signup form?  
-A: Go to our Facebook Page (fb.me/uvicpec) and click the sign up button.
+Q: How can I get involved with the club?  
+A: Request to join our [member group on Facebook](https://www.facebook.com/groups/uvicpecmembers)!
 
 Q: Do you guys only shoot digital?  
 A: Some of our members do shoot with film as well and are a great resource for many questions about film if you are just getting into it. You should also check out UVic’s Photo Club which is primarily film based and for $10 a semester will get you darkroom and chemical access in the SUB.
@@ -150,11 +150,5 @@ A: Unfortunately we do not have the resources to rent out memory cards, as that 
 
 Q: Do you develop and print film for the disposable cameras?  
 A: We unfortunately do not have the resources or time to develop and print film. You may develop your own film at various stores in the city that offer film processing services (We recommend Prism Imaging, or London drugs), or learn to do it yourself from the UVic Photoclub (fb.me/UVicPhotoClub).
-
-
-## Chat Bot
-
-Q: Why do you use a chat bot?  
-A: We have found that it is easier for people to have their questions answered by talking with the chat bot. This frees up time that the admins spend answering the same question again and again. You can still talk with an admin by clicking the “Talk with an Admin” button.
 
 
